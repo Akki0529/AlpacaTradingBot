@@ -47,5 +47,9 @@ jobby
 ## Preview in terminal:
 ![image](https://github.com/user-attachments/assets/2f96236b-fc4f-4c26-a4cb-0ad23aa153ad)
 
-## Preview tearsheet
+## Preview tearsheet for 4 years of backtesting
+![image](https://github.com/user-attachments/assets/528dd54f-4fd8-4648-90ad-bb025a6f89e0)
+
+## Key Performance Metrics over 4 years of backtesting
+![image](https://github.com/user-attachments/assets/466a207e-2613-4c8a-ba94-4d5f91993482)
 
