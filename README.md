@@ -41,3 +41,11 @@ jobby
 ├── tradingbot.py
 ├── package.json
 └── package-lock.json
+
+
+
+##Preview in terminal:
+![image](https://github.com/user-attachments/assets/2f96236b-fc4f-4c26-a4cb-0ad23aa153ad)
+
+##Preview tearsheet
+
