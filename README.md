@@ -41,7 +41,7 @@ jobby
 ├── tradingbot.py
 ├── package.json
 └── package-lock.json
-
+```
 
 
 ##Preview in terminal:
