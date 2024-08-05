@@ -44,8 +44,8 @@ jobby
 ```
 
 
-##Preview in terminal:
+## Preview in terminal:
 ![image](https://github.com/user-attachments/assets/2f96236b-fc4f-4c26-a4cb-0ad23aa153ad)
 
-##Preview tearsheet
+## Preview tearsheet
 
